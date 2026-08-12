@@ -97,8 +97,8 @@ I'm a fresher on a focused, self-driven journey into Artificial Intelligence:
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=Optimus0205&show_icons=true&theme=tokyonight&hide_border=true" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Optimus0205&layout=compact&theme=tokyonight&hide_border=true" />
+  <!--<img height="165" src="https://github-readme-stats.vercel.app/api?username=Optimus0205&show_icons=true&theme=tokyonight&hide_border=true" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Optimus0205&layout=compact&theme=tokyonight&hide_border=true" />-->
 </p>
 
 <p align="center">
