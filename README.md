@@ -88,7 +88,7 @@ I'm a fresher on a focused, self-driven journey into Artificial Intelligence:
 | 🏠 [Real-Estate-App](https://github.com/Optimus0205/Real-estate-app) | End-to-end real estate price prediction app | `Python` `ML` |
 | 📈 [Sales-Forecasting-App](https://github.com/Optimus0205/Sales-Forecasting-App) | Forecasting sales trends using time-series & ML models | `Python` `Jupyter Notebook` |
 | 🚗 [Self-Driving-Car](https://github.com/Optimus0205/Self-Driving-Car) | Simulated self-driving car using Computer Vision & DL | `Python` `CV` |
-| 🚗 [RAG-Based-Medical-Chatbot]([https://github.com/Optimus0205/RAG-based-Medical-Chatbot]) | Chatbot providing the medical description over a retrieved document | `Python` `GenAI` `Hugging Face` `LLama2` |
+| 🚗 [RAG-Based-Medical-Chatbot](https://github.com/Optimus0205/RAG-based-Medical-Chatbot) | Chatbot providing the medical description over a retrieved document | `Python` `GenAI` `Hugging Face` `LLama2` |
 | 🖼️ [Image-Text-Detection-App](https://github.com/Optimus0205/Image-Text-Detection-App) | Detects and extracts text from images | `Python` `OpenCV` `NLP` |
 | 🔗 [Supply-Chain-Dashboard](https://github.com/Optimus0205/Supply-Chain-Dashboard) | Interactive dashboard for supply chain analytics | `HTML` `Data Viz` |
 | ♻️ [WPCB-Circular-Supply-Chain](https://github.com/Optimus0205/WPCB-Circular-Supply-Chain) | Optimization model for circular supply chains | `AMPL` |
